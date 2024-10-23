@@ -4,13 +4,29 @@ header{
     text-align: center;
 }
 
+/* .siteTitles{
+    background-color:rgb(41, 7, 7) ;
+    color:rgb(36, 126, 126);
+    text-align: center;
+} */
+
+
 body{
  background-image: url(record.png) ;
  background-repeat: repeat;
  margin: 0px;
 }
+/* .record{ 
+    background-image: url(record.png) ;
+    background-repeat: repeat;
+}
+This doesn't work. Having trouble with how to make this work as a class. */
 
 main{
     background-color: grey;
     padding: 1em;
+}
+ul{
+    color: red;
+    font-size: 30px;
 }
